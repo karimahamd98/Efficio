@@ -1,0 +1,30 @@
+﻿Source Node ID,Source Node Name,Target Node ID,Target Node Name,Value
+1,Inorganic Chemicals,4,Pharmaceuticals,1
+1,Inorganic Chemicals,3,Conversion Chemicals,1
+1,Inorganic Chemicals,5,Medical Devices,1
+1,Inorganic Chemicals,7,Mineral and Metal,1
+1,Inorganic Chemicals,2,Specialty Chemicals,1
+2,Specialty Chemicals,4,Pharmaceuticals,1
+2,Specialty Chemicals,3,Conversion Chemicals,1
+2,Specialty Chemicals,5,Medical Devices,1
+2,Specialty Chemicals,6,Food Processing,1
+2,Specialty Chemicals,7,Mineral and Metal,1
+3,Conversion Chemicals,5,Medical Devices,1
+3,Conversion Chemicals,6,Food Processing,1
+3,Conversion Chemicals,8,Machinery & Equipment,1
+3,Conversion Chemicals,9,Aerospace,1
+3,Conversion Chemicals,10,Building Material,1
+3,Conversion Chemicals,11,Automotive,1
+3,Conversion Chemicals,12,Maritime,1
+4,Pharmaceuticals,5,Medical Devices,1
+5,Medical Devices,4,Pharmaceuticals,1
+7,Mineral and Metal,5,Medical Devices,1
+7,Mineral and Metal,6,Food Processing,1
+7,Mineral and Metal,8,Machinery & Equipment,1
+7,Mineral and Metal,9,Aerospace,1
+7,Mineral and Metal,10,Building Material,1
+7,Mineral and Metal,11,Automotive,1
+7,Mineral and Metal,12,Maritime,1
+8,Machinery & Equipment,9,Aerospace,1
+8,Machinery & Equipment,11,Automotive,1
+8,Machinery & Equipment,12,Maritime,1
